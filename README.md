@@ -1,4 +1,5 @@
 🩺 Makine Öğrenmesi ile Cilt Kanseri Teşhisi (HAM10000)
+
 👤 Öğrenci Bilgileri
 
 Ad Soyad:Furkan Dayan
